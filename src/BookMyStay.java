@@ -1,4 +1,4 @@
-public class UseCase1HotelBookingApp {
+public class BookMyStay {
 
     /**
      * Main method - Entry point of the application
